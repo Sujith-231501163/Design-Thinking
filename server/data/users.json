@@ -1,0 +1,35 @@
+[
+  {
+    "username": "student1",
+    "password": "pass123",
+    "role": "student",
+    "studentId": "STU001",
+    "name": "Aarav Sharma"
+  },
+  {
+    "username": "student2",
+    "password": "pass123",
+    "role": "student",
+    "studentId": "STU002",
+    "name": "Priya Patel"
+  },
+  {
+    "username": "student3",
+    "password": "pass123",
+    "role": "student",
+    "studentId": "STU005",
+    "name": "Vikram Singh"
+  },
+  {
+    "username": "faculty1",
+    "password": "admin123",
+    "role": "faculty",
+    "name": "Dr. Rajesh Kumar"
+  },
+  {
+    "username": "faculty2",
+    "password": "admin123",
+    "role": "faculty",
+    "name": "Prof. Sunita Verma"
+  }
+]
